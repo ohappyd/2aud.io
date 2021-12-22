@@ -1,245 +1,96 @@
-# shazam-sound-recognition-fork
-Create a fork of the shazam sound recognition system
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/phareal/art/master/2audio-logo.webp?token=AFQDOT5CZIGVQ5U2LTYQX5LBYPEN2" width="400"></a></p>
 
+<h1 align="center">2aud.io v2</h1>
 
-<div id="top"></div>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
+<p align="center">
+  <strong>convert your document or sentences to audio with ease.</strong>
+</p>
 
+<p align="center">
+  <strong>⚠️ The shield below will be add (I just make it like this to look more beautiful )</strong>
+</p>
 
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-<h3 align="center">Best-README-Template</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
-</div>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
+<p align="center">
+  <a href="./CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" /></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/licence-MIT-blue.svg" alt="Licence MIT"/></a>
+  <br />
+  <a href="https://github.com/Divlo/create-fullstack-app/actions/workflows/build.yml"><img src="https://github.com/Divlo/create-fullstack-app/actions/workflows/build.yml/badge.svg?branch=develop" /></a>
+  <a href="https://github.com/Divlo/create-fullstack-app/actions/workflows/lint.yml"><img src="https://github.com/Divlo/create-fullstack-app/actions/workflows/lint.yml/badge.svg?branch=develop" /></a>
+  <a href="https://github.com/Divlo/create-fullstack-app/actions/workflows/test.yml"><img src="https://github.com/Divlo/create-fullstack-app/actions/workflows/test.yml/badge.svg?branch=develop" /></a>
+  <br />
+  <a href="https://conventionalcommits.org"><img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg" alt="Conventional Commits" /></a>
+  <a href="https://github.com/semantic-release/semantic-release"><img src="https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg" alt="semantic-release" /></a>
+  <a href="https://www.npmjs.com/package/create-fullstack-app"><img src="https://img.shields.io/npm/v/create-fullstack-app.svg" alt="npm version"></a>
+  <br/> <br/>
+</p>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## 📜 About the project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+**2aud.io** like his name said is just a tool to convert document or text to audio in many languages.
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
+## ⁉️ Purpose of the project
+The main goal of this project are 
 Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+* To have a deep understanding of some concept like sound recognition , data processing and other cool stuffs
+* Improve my programming and analytics skills  :smile:
+* Improve my A to Z building skills :smile:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+## 🚀 Features
 
-Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+- ⚡️ Upload a document (docx,txt, pdf) and convert it to audio (French, English , other etc)
+- ✨ Convert a text in the grabbed from a link or copied into a text box to audio
+- 🧐 Add a text sound recognition system later
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+ The main technlogies i used to create this app are 
 
-* [Next.js](https://nextjs.org/)
 * [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+* [fastify](https://www.fastify.io/)
+* [Python](https://www.fastify.io/) (For the chore modules)
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
+- [x] Setup the project directory
+- [x] Create the Readme.md
+- [ ] Design the application infrastructure
+- [ ] Grap all necessary data
+- [ ] Create Application
+  - [ ] Create dockerfile
+  - [ ] Setup CI/CD 
+  - [ ] Backend
+    - [ ] Define routes
+    - [ ] Define folder structure (Architecture)
+    - [ ] (etc)
+    - [ ] (test)
+  - [ ] Front End 
+    - [ ] Define folder structure (Architecture)
+    - [ ] Build components
+    - [ ] Build pages
+    - [ ] (test)
+- [ ] Test (firstly in english)
+- [ ] Release the first beta for users
+- [ ] Fix issues
 - [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+    - [ ] French
+    - [ ] Deutsch
+    - [ ] Japanese
+    - [ ] (Add more locale african language)
+    - [ ] (etc)
+    
 
 <!-- LICENSE -->
-## License
+## 📄 License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+[MIT](./LICENSE)
 
 
 <!-- CONTACT -->
 ## Contact
 
-POTCHONA Essosolam Justin - [linkedin](https://www.linkedin.com/in/justin-potchona/) - potchjust@gmail.com
-
-Project Link: [https://github.com/phareal/shazam-sound-recognition-fork](https://github.com/phareal/shazam-sound-recognition-fork)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[product-screenshot]: images/screenshot.png
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+[Email](mailto:potchjust@gmail.com)
+[Linkedin](https://www.linkedin.com/in/justin-potchona/)
