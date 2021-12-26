@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>⚠️ The shield below will be add (I just make it like this to look more beautiful )</strong>
+  <strong>⚠️ The badges below will be add later (I just make it like this to look more beautiful ) 🤣🤣🤣</strong>
 </p>
 
 <p align="center">
