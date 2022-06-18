@@ -1,9 +1,9 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/phareal/art/master/2audio-logo.webp?token=AFQDOT5CZIGVQ5U2LTYQX5LBYPEN2" width="400"></a></p>
 
-<h1 align="center">2aud.io v2</h1>
+<h1 align="center">Alkebulan</h1>
 
 <p align="center">
-  <strong>convert your document or sentences to audio with ease.</strong>
+  <strong>Text to speech for African languages </strong>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 <!-- ABOUT THE PROJECT -->
 ## 📜 About the project
 
-**2aud.io** like his name said is just a tool to convert document or text to audio in many languages.
+**Alkebulan** is a aplateform to provide a text to speech and speech to text platform for african languages first for the Togo and if the project grows we will add more langages
 
 
 ## ⁉️ Purpose of the project
@@ -36,6 +36,7 @@ Here's why:
 * To have a deep understanding of some concept like sound recognition , data processing and other cool stuffs
 * Improve my programming and analytics skills  :smile:
 * Improve my A to Z building skills :smile:
+* Provide a tools that can help african to know more their native languages
 
 ## 🚀 Features
 
