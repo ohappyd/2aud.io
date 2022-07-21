@@ -1,4 +1,5 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/phareal/art/master/2audio-logo.webp?token=AFQDOT5CZIGVQ5U2LTYQX5LBYPEN2" width="400"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://socialify.git.ci/phareal/Alkebulan/image?language=1&owner=1&name=1&stargazers=1&theme=Light" width="400"></a></p>
+
 
 <h1 align="center">Alkebulan</h1>
 
