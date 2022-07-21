@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://socialify.git.ci/phareal/Alkebulan/image?language=1&owner=1&name=1&stargazers=1&theme=Light" width="400"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://socialify.git.ci/phareal/Alkebulan/image?description=1&descriptionEditable=Alkebulan%20is%20a%20aplateform%20to%20provide%20a%20text%20to%20speech%20and%20speech%20to%20text%20platform%20for%20african%20languages%20first%20for%20the%20Togo%20and%20if%20the%20project%20grows%20we%20will%20add%20more%20langages&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" width="400"></a></p>
 
 
 <h1 align="center">Alkebulan</h1>
