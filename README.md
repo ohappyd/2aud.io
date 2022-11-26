@@ -1,7 +1,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://socialify.git.ci/phareal/Alkebulan/image?description=1&descriptionEditable=Alkebulan%20is%20a%20aplateform%20to%20provide%20a%20text%20to%20speech%20and%20speech%20to%20text%20platform%20for%20african%20languages%20first%20for%20the%20Togo%20and%20if%20the%20project%20grows%20we%20will%20add%20more%20langages&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark"></a></p>
 
 
-<h1 align="center">Alkebulan</h1>
+<h1 align="center">2aud.io</h1>
 
 <p align="center">
   <strong>Text to speech for African languages </strong>
@@ -28,7 +28,7 @@
 <!-- ABOUT THE PROJECT -->
 ## 📜 About the project
 
-**Alkebulan** is a aplateform to provide a text to speech and speech to text platform for african languages first for the Togo and if the project grows we will add more langages
+**2aud.io** is a plateform to provide a text to speech and speech to text platform for african languages first for the Togo and if the project grows we will add more langages
 
 
 ## ⁉️ Purpose of the project
@@ -41,6 +41,8 @@ Here's why:
 
 ## 🚀 Features
 
+- ⚡️ Convert text to audio and vice-versa
+- ⚡️ Upload an audio file and convert it to text
 - ⚡️ Upload a document (docx,txt, pdf) and convert it to audio (French, English , other etc)
 - ✨ Convert a text in the grabbed from a link or copied into a text box to audio
 - 🧐 Add a text sound recognition system later
