@@ -1,0 +1,4 @@
+.idea
+.env
+/src/api/.pnpm-store/
+/src/api/dist/

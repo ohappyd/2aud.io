@@ -4,7 +4,7 @@
 <h1 align="center">2aud.io</h1>
 
 <p align="center">
-  <strong>Text to speech for African languages </strong>
+  <strong>Text to speech Platform </strong>
 </p>
 
 <p align="center">
@@ -28,11 +28,11 @@
 <!-- ABOUT THE PROJECT -->
 ## 📜 About the project
 
-**2aud.io** is a plateform to provide a text to speech and speech to text platform for african languages first for the Togo and if the project grows we will add more langages
+**2aud.io** is a plateform to provide a text to speech and speech to text platform 
 
 
 ## ⁉️ Purpose of the project
-The main goal of this project are 
+The main goal of this project are
 Here's why:
 * To have a deep understanding of some concept like sound recognition , data processing and other cool stuffs
 * Improve my programming and analytics skills  :smile:
@@ -49,7 +49,7 @@ Here's why:
 
 ### Built With
 
- The main technlogies i used to create this app are 
+The main technlogies i used to create this app are
 
 * [React.js](https://reactjs.org/)
 * [fastify](https://www.fastify.io/)
@@ -65,13 +65,13 @@ Here's why:
 - [ ] Grap all necessary data
 - [ ] Create Application
   - [ ] Create dockerfile
-  - [ ] Setup CI/CD 
+  - [ ] Setup CI/CD
   - [ ] Backend
     - [ ] Define routes
     - [ ] Define folder structure (Architecture)
     - [ ] (etc)
     - [ ] (test)
-  - [ ] Front End 
+  - [ ] Front End
     - [ ] Define folder structure (Architecture)
     - [ ] Build components
     - [ ] Build pages
@@ -80,12 +80,12 @@ Here's why:
 - [ ] Release the first beta for users
 - [ ] Fix issues
 - [ ] Multi-language Support
-    - [ ] French
-    - [ ] Deutsch
-    - [ ] Japanese
-    - [ ] (Add more locale african language)
-    - [ ] (etc)
-    
+  - [ ] French
+  - [ ] Deutsch
+  - [ ] Japanese
+  - [ ] (Add more locale african language)
+  - [ ] (etc)
+
 
 <!-- LICENSE -->
 ## 📄 License
